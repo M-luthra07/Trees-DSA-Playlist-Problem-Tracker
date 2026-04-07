@@ -1,7 +1,7 @@
 
 ## 📺 Trees DSA Playlist – Problem Tracker
 
-This repository contains solutions to all problems from the following YouTube playlist:
+This repository contains solutions to important problems from the following YouTube playlist:
 
 🎥 Playlist Link:https://www.youtube.com/playlist?list=PLJ_vPQ_vraNz90tiB1HNgUWjivW07RcXC 
 
